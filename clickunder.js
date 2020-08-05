@@ -9,7 +9,7 @@ if (ClickUndercookie == null)
 var ExpDate = new Date ();
 ExpDate.setTime(ExpDate.getTime() + (0 * 0 * 1 * 1000));
 SetCookie('clickunder','1',ExpDate, "/");
-window.open("https://ikc1.app.link/modar", "Google", params);
+window.open("https://nellieolsons.blogspot.com/", "Google", params);
 window.focus();
 }
 }
